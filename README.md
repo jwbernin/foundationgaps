@@ -15,8 +15,8 @@ tonight (July 3 2023) to embark on a project that had been floating around in th
 to try to fill in the gaps in future history as best I could. 
 
 This effort is purely personal, is not authorized by the Asimov estate or by any publisher or author, and although based
-on canon, should not be considered canon itself. You're free to add to it, share it, or simply enjoy it (assuming you do
-enjoy it). 
+on canon, should not be considered canon itself. It is entirely a work of fiction - more specifically of fan fiction.
+You're free to add to it, share it, or simply enjoy it (assuming you do enjoy it). 
 
 I will be using ASCIIDOC to write this, if you would like to contribute, I ask that you do so in ASCIIDOC as well. I
 have not as yet defined any style conventions, I'm simply using my own style. If this repository gains enough interest

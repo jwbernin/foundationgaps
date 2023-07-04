@@ -1,0 +1,70 @@
+= The Settlers Stand Alone
+== The Fall of Aurora
+The Spacers, the long-lived descendants of the first wave of galactic settlement who brought with them to their fifty
+worlds positronic robots, have not impacted galactic society since before the settlement of Trantor. In fact, a full 280
+years separated the fall of Aurora from the settlement of Trantor. As had been predicted by Elijah Baley, the Spacer
+society slowly decayed further and further because of the socially insulating effect of robots. Solaria, the last
+Spacer world to be settled, was also the first Spacer world to be abandoned. 
+
+We now know that Solaria was not truly abandoned, but that the Solarians themselves cut off all communication with the 
+rest of the galaxy, choosing to direct their evolution into hermaphrodites. Eventually, by the time the galaxy imposed
+itself once again upon Solaria in the persons of Golan Trevize, Janov Pelorat, and Bliss, their population had been
+stabilized for millenia at a mere 1,200 Solarians. 
+
+It is not Solaria, however, that we are chiefly interested in, but Aurora. Aurora was the first extra-terrestrial 
+world settled, and was consequently the de-facto capital of the Spacer systems. All Spacer worlds looked to Aurora
+to lead, and as we saw in "Robots and Empire", were quietly pleased and much relieved when Aurora chose not to lead.
+
+It is that very lack of leadership that ultimately doomed that world. Spacer society had, by the second century after the
+death of Dr Han Fastolfe, become one in which the privacy of the individual was absolutely paramount over all other
+concerns. Procreation was extremely limited, and although many Spacers decried the resultant decline in population,
+the did so only desultorily, and began to debate among themselves whether to manadate minimum child-bearing quotas for
+female Spacers or to follow in Solaria's example and develop reliable ectogenesis facilities.
+
+The idea of government madating that a woman bear a set number of children quickly ran afoul of the iron-clad privacy
+guarantees of all Spacer worlds, including Aurora. Each woman was guaranteed by the government the absolute, inviolable
+right to determine for herself the number of children she would or would not bear. It was a very unfortunate reality that
+Spacer society conditioned women narly from birth to choose not to bear children; those women who flouted this particular
+expectation and chose to bear children were looked down upon by their peers, and no protestations of exercising freedom
+of choice or of recognizing the need to guarantee future generations could change their nearly complete ostracization
+from said society.
+
+The second option, ectogenesis, brought with it the unease that to follow in Solaria's example in this would lead to
+a rapid degradation of society into becoming a relfection of Solaria's diseased insistence on a complete lack of
+personal interaction, so the very science which might have lengthened the planet's occupation by humans was resoundly
+rejected by those same humans.
+
+The birth rate of Aurora had long since falles far below the replacement threshhold, and when it began it's inevitable
+final decline to zero, R. Daneel Olivaw found it necessary to abandon Spacer society lest he end up trapped on a dead
+planet bereft of all human population, unable to continue his effort to see that Partner Elijah's wish of a pan-galactic
+humanity be achieved. By the twenty-seventh decade after Giskard's inactivation, Daneel had left the planet of
+Aurora permanently. By the seventy-third decade after Deaneel's departure, there were no more Spacers living on Aurora.
+The robot servants of the Aurorans faithfully continued to maintain the estates until, over the millenia, each one ran
+out of power and was permanently deactivated. Aurora did not impinge upon galactic history after Daneel's departure; it
+was not until the year 753 GE that the last Auroran robot ceased to function.
+
+== The Eternal Servant
+
+The exact details of how Daneel engineered his transport from Aurora to Earth may never be known. In fact, doing so was 
+a major risk for Daneel, for the surface had continued to grow in radioactivity. The result of Kelden Amadiro's and
+Levular Mandamus's machinations, the planet Earth was indeed becoming slowly uninhabitable, though the growth rate of
+radioactivity was significantly smaller than Mandamus had calculated it would be. The machines had been set to render
+Earth completely uninhabitable in fifteen decades, 150 years, but the actual radiation growth was less than one-tenth
+the rate it should have been had these machines functioned to Mandamus' specifications. Daneel, knowing well the dangers
+of radioactivity to his positronic brain, used his mental influence to convince a consortium of Earth interests to build
+a base inside the moon as a safeguard against continued growth of radioactivity. This is the base in which Golan Trevize
+meets Daneel, the first time in over twenty millenia that any humans had come to the Sol system without being guided
+there by Daneel or one of his humaniform Giskardians.
+
+It was, in fact only Daneel's presence on the moon, and his assumption of the role of facilities manager for the moon
+base in the employ of the aforementioned consortium, that saved him from First Law inactivation when the news of Aurora's
+final depopulation was recieved. The positronomotive potentials set up by the "death" of the planet Aurora were countered
+only by the formidable combination of actively working to preseve human life against the normally inimical lunar surface
+and being daily involved in supply and exploration plans for new Settler worlds, both of which factored in to the
+counter-potential generated by the Zeroth Law, and with the ever-present memory of Partner Elijah's exhortation to care
+for the entirety of humanity, not just for individual humans. It was also a fortunate chance that immediately after 
+hearing of Aurora's depopulation, Daneel was paged to assist with resolving an issue regarding scheduling of the supply
+shipments for the three newest Settler worlds. It was this final push, a task that had direct First Law (in the form of
+multiple human lives requiring his efforts to support) which he credited with resolving the final First Law dissonances
+and allowing him to continue to function.
+
