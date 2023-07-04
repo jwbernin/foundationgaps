@@ -6,8 +6,9 @@ I've been a fan of Isaac Asimov's _Foundation_ series ever since I was in grade 
 at least three times. I've always wanted to read more from this universe - more about Daneel, more about the Foundation,
 more about the First Galactic Empire, just more of everything.
 
-When Asimov passed, I was... more than unhappy, but I kept that to myself. I felt like a bit of Creation had been
-overtaken by Chaos far too early, before it could truly flourish.
+When Asimov passed, I was... unhappy. I kept that mostly to myself. I felt like a bit of Creation had been
+overtaken by Chaos far too early, before it could truly flourish. This was not the Plan, this was a Deviation that
+unfortunately could not be easily recovered from.
 
 I started my most recent re-read of the entire series (starting with _The Caves of Steel_) about a month ago, and decided
 tonight (July 3 2023) to embark on a project that had been floating around in the back of my head for years. I was going
