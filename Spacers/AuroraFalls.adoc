@@ -34,27 +34,27 @@ a rapid degradation of society into becoming a relfection of Solaria's diseased 
 personal interaction, so the very science which might have lengthened the planet's occupation by humans was resoundly
 rejected by those same humans.
 
-The birth rate of Aurora had long since falles far below the replacement threshhold, and when it began it's inevitable
-final decline to zero, R. Daneel Olivaw found it necessary to abandon Spacer society lest he end up trapped on a dead
-planet bereft of all human population, unable to continue his effort to see that Partner Elijah's wish of a pan-galactic
-humanity be achieved. By the twenty-seventh decade after Giskard's inactivation, Daneel had left the planet of
-Aurora permanently. By the seventy-third decade after Deaneel's departure, there were no more Spacers living on Aurora.
-The robot servants of the Aurorans faithfully continued to maintain the estates until, over the millenia, each one ran
-out of power and was permanently deactivated. Aurora did not impinge upon galactic history after Daneel's departure; it
-was not until the year 753 GE that the last Auroran robot ceased to function.
+The birth rate of Aurora had long since falles far below the replacement threshhold; R. Daneel Olivaw found it necessary
+to abandon Spacer society lest he end up trapped on a dead planet bereft of all human population, unable to continue his
+effort to see that Partner Elijah's wish of a pan-galactic humanity be achieved. Sometime after the death of Gladia 
+(known to native Aurorans as "Gladia Solaria"), Daneel engineered his departure from Aurora. By the seventy-third decade
+after Giskard's inactivation, there were no more Spacers living on Aurora. The robot servants of the Aurorans faithfully
+continued to maintain the estates until, over the millenia, each one ran out of power and was permanently deactivated.
+Aurora did not impinge upon galactic history after Daneel's departure; it was not until the year 753 GE that the last
+Auroran robot ceased to function.
 
 == The Eternal Servant
 
-The exact details of how Daneel engineered his transport from Aurora to Earth may never be known. In fact, doing so was 
-a major risk for Daneel, for the surface had continued to grow in radioactivity. The result of Kelden Amadiro's and
-Levular Mandamus's machinations, the planet Earth was indeed becoming slowly uninhabitable, though the growth rate of
-radioactivity was significantly smaller than Mandamus had calculated it would be. The machines had been set to render
-Earth completely uninhabitable in fifteen decades, 150 years, but the actual radiation growth was less than one-tenth
-the rate it should have been had these machines functioned to Mandamus' specifications. Daneel, knowing well the dangers
-of radioactivity to his positronic brain, used his mental influence to convince a consortium of Earth interests to build
-a base inside the moon as a safeguard against continued growth of radioactivity. This is the base in which Golan Trevize
-meets Daneel, the first time in over twenty millenia that any humans had come to the Sol system without being guided
-there by Daneel or one of his humaniform Giskardians.
+The exact details of how, and precisely when, Daneel engineered his transport from Aurora to Earth may never be known.
+In fact, doing so was a major risk for Daneel, for the surface had continued to grow in radioactivity. The result of
+Kelden Amadiro's and Levular Mandamus's machinations, the planet Earth was indeed becoming slowly uninhabitable, though
+the growth rate of radioactivity was significantly smaller than Mandamus had calculated it would be. The machines had
+been set to render Earth completely uninhabitable in fifteen decades, 150 years, but the actual radiation growth was
+less than one-tenth the rate it should have been had these machines functioned to Mandamus' specifications. Daneel,
+knowing well the dangers of radioactivity to his positronic brain, used his mental influence to convince a consortium of
+Earth interests to build a base inside the moon as a safeguard against continued growth of radioactivity. This is the
+base in which Golan Trevize meets Daneel, the first time in over twenty millenia that any humans had come to the Sol
+system without being guided there by Daneel or one of his humaniform Giskardians.
 
 It was, in fact only Daneel's presence on the moon, and his assumption of the role of facilities manager for the moon
 base in the employ of the aforementioned consortium, that saved him from First Law inactivation when the news of Aurora's
