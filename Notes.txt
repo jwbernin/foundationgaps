@@ -1,0 +1,22 @@
+In Foundation, Hari Seldon is reported as being born in 11,988 GE, death 12,069.  -79 to 1 FE.
+
+In Second Foundation, the Foundation vessel _Fearless_ is reported as being destroyed in the opening salvo of the 
+Stettinian War in 11,692 GE, or 376 FE. We ignore the obviously incorrect GE date and use 376 FE, which translates 
+to 12,444 GE. 
+
+In Foundation's Edge, we are told that the Galactic Empire stood 12,000 years, and further that for 8,000 years prior
+to this Trantor was the capital world of "a large and mighty political entity that spanned an ever-growing union of
+planetary systems". (pg 77) 
+
+In Pebble In The Sky, Bel Arvadan at one point refers to Josef Schwartz's native tounge (which we know to be 1950's 
+American English) as being the same as that found in 50,000 year-old rock strata on Arcturus. This is improbable. In
+Robots and Empire, Mandamus sets the W-particle accelerators to render the Earth uninhabitable in 15 decades, or 150 
+years. Yet the Earth is still inhabited during this novel, though it is mostly a radioactive wasteland. I have 
+arbitrarily decided that Mandamus' math was off by a double decimal shift, giving rougly 1500 decades, 15,000 years, 
+from the time of Robots and Empire to the time when Earth becomes uninhabitable. This allows for the 8,000 years of
+the Trantorian Empire prior to the founding of the Galactic Empire plus 6,000 years of prior human exploration and 
+settlement of the galaxy. It is during this 6,000 year exploration phase that I place the other two Empire novels,
+The Stars, Like Dust and The Currents of Space. There is still some uncertainty around how long after PITS the Earth
+remained inhabited; I have (again arbitrarily) decided that the final human population was moved off Earth and onto
+New Earth in the Alpha Centauri system (first encountered in Foundation and Earth) in just less than 1,000 years
+after the events of PITS.
